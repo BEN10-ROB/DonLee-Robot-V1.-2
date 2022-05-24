@@ -40,7 +40,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/mo_tech_YT"
+                                    '💌SUBSCRIB💌', url="https://t.me/MMCINEMACHAKKU"
                                 )
                         ]
                     ]
@@ -52,14 +52,14 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('My Dev 🧒', url='https://t.me/mrk_yt'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/PR0FESS0R-99/DonLee-Robot-V1')
+        InlineKeyboardButton('My Dev 🧒', url='https://t.me/cinemaclubcc'),
+        InlineKeyboardButton('💌SUBSCRIB💌 ', url ='https://t.me/+yP9ckmsoGF1kNDNl')
     ],[
-        InlineKeyboardButton('🛠 Support 🛠', url='https://t.me/mo_tech_yt')
+        InlineKeyboardButton('🚸 Support Group 🚸', url='https://t.me/MMCINEMACHAKKU')
     ],[
         InlineKeyboardButton('⚙ Help ⚙', callback_data="help")
     ],[
-        InlineKeyboardButton('💫 Deploy Video 💫', url='https://youtu.be/uAHl5jvnrhk')
+        InlineKeyboardButton('💫 Join My Update 💫', url='https://t.me/malayali00l')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
